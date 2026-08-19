@@ -1,0 +1,14 @@
+names:
+- building
+- facility
+- floor
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: object-detection-g5zgo
+  url: https://universe.roboflow.com/-nd5fh/object-detection-g5zgo/dataset/5
+  version: 5
+  workspace: -nd5fh
+test: ../test/images
+train: ../train/images
+val: ../valid/images
